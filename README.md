@@ -1,1 +1,1 @@
-I am a second-year Computer Science undergraduate student at Cal Poly Pomona!
+I am a second-year junior at Cal Poly Pomona. I major in computer science and am working towards my Data Science minor.
