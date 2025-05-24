@@ -1,1 +1,1 @@
-I am a second-year junior at Cal Poly Pomona. I major in computer science and am working towards my Data Science minor.
+I am a third-year senior at Cal Poly Pomona. I am majoring in computer science and working towards my data science minor.
